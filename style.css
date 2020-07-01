@@ -38,7 +38,7 @@ transform:scale(.5);
 }
 @media only screen and (max-width:1024px ){
     .full-image.open{
-        top:0;left:0;width:100vw;height:90%;
+        position:absolute;top:0;left:0;width:100vw;height:90%;
     }
     
     .popup{
